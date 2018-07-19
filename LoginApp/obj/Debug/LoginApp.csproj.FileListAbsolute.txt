@@ -1,0 +1,10 @@
+C:\Users\Dori\Desktop\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\Dori\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.csprojResolveAssemblyReference.cache
+C:\Users\Dori\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.frmLogin.resources
+C:\Users\Dori\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.frmMain.resources
+C:\Users\Dori\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\Dori\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.Cache
+C:\Users\Dori\Desktop\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\Dori\Desktop\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\Dori\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\Dori\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
